@@ -1,2 +1,2 @@
 # ehop
-Simple project created during PHP course
+Created during PHP course
